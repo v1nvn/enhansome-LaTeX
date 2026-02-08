@@ -58,7 +58,7 @@ Guides how to learn LaTeX
 
 When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.
 
-* [dante-ev/docker-texlive](https://github.com/dante-ev/docker-texlive) ⭐ 114 | 🐛 4 | 🌐 Dockerfile | 📅 2025-05-11 - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
+* [dante-ev/docker-texlive](https://github.com/dante-ev/docker-texlive) ⭐ 114 | 🐛 5 | 🌐 Dockerfile | 📅 2025-05-11 - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 * [reitzig/texlive-docker](https://github.com/reitzig/texlive-docker) ⭐ 30 | 🐛 2 | 🌐 Dockerfile | 📅 2026-02-01 - minimal TeXLive system with package installation possibility
 * [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
 
@@ -106,17 +106,17 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,431 | 🐛 75 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,809 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-03 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,433 | 🐛 75 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,815 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-03 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 0 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,723 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,152 | 🐛 25 | 🌐 TeX | 📅 2026-01-17 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,725 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,155 | 🐛 25 | 🌐 TeX | 📅 2026-01-17 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 852 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
-* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,157 | 🐛 26 | 📅 2026-01-20 ![foss]
+* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,160 | 🐛 26 | 📅 2026-01-20 ![foss]
   * [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
   * [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
@@ -128,7 +128,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
   * [LaTeXing](https://github.com/LaTeXing/LaTeXing) ⭐ 81 | 🐛 142 | 🌐 Python | 📅 2019-03-19 - Free plug-in to edit LaTeX. ![foss]
 
 * [IntelliJ](https://www.jetbrains.com/idea/)
-  * [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) ⭐ 969 | 🐛 7 | 🌐 Kotlin | 📅 2026-02-06 - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+  * [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) ⭐ 969 | 🐛 6 | 🌐 Kotlin | 📅 2026-02-07 - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 ### Online editors
 
@@ -152,7 +152,7 @@ Online editors that allow you to edit documents collaboratively.
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![linux] ![mac] ![foss]
 * [betterbib](https://github.com/nschloe/betterbib) ⭐ 832 | 🐛 3 | 📅 2025-04-08 - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
-* [OneCite](https://github.com/HzaCode/OneCite) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-12-22 - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
+* [OneCite](https://github.com/HzaCode/OneCite) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2026-02-07 - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
 * [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
 * [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 * [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
@@ -229,9 +229,9 @@ PSTricks is a great library to draw figures for inclusion in PostScript/DVI file
 TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents.
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
-* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,559 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,558 | 🐛 136 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,679 | 🐛 261 | 🌐 MATLAB | 📅 2023-10-23 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
-* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,386 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
+* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,387 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 * [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
 * [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
@@ -252,7 +252,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ## Templates
 
-* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,664 | 🐛 1 | 📅 2025-07-23 - Links to various beamer themes along with PDF previews.
+* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,663 | 🐛 1 | 📅 2025-07-23 - Links to various beamer themes along with PDF previews.
 * [TeXtured](https://github.com/jdujava/TeXtured) ⭐ 251 | 🐛 9 | 🌐 TeX | 📅 2025-09-11 - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 * [LaTeX Beamer Theme Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) ⭐ 45 | 🐛 0 | 🌐 TeX | 📅 2025-09-05 - Visual overview of beamer themes included in TeXLive
 * [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
@@ -269,7 +269,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 * [Dickimaw Books: LaTeX resources](https://www.dickimaw-books.com/latexresources.html) - Great overview of resources useful for LaTeX.
 * [LaTeX cookbook](https://latex-cookbook.net) - Sibling of TeXample, contains quite a bit of example code.
 * [Visual FAQ](https://ctan.org/pkg/visualfaq) - Typesetting issues and a link to appropriate TeX FAQ answers.
-* [MartinThoma's LaTeX example](https://github.com/MartinThoma/LaTeX-examples/) ⭐ 1,678 | 🐛 5 | 🌐 TeX | 📅 2024-10-19 - GitHub repository containing example LaTeX documents.
+* [MartinThoma's LaTeX example](https://github.com/MartinThoma/LaTeX-examples/) ⭐ 1,677 | 🐛 5 | 🌐 TeX | 📅 2024-10-19 - GitHub repository containing example LaTeX documents.
 * [LaTeX community](https://latex.org/forum) - Forum about LaTeX.
 * German: [Neue TeX FAQ](https://texfragen.de) - Modern and updated LaTeX FAQ in German.
 * [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) - Example output of common BibTeX styles (BST files).
