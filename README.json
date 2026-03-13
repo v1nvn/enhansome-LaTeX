@@ -36,7 +36,7 @@
             "last_commit": "2025-05-11T15:40:22Z",
             "owner": "dante-ev",
             "repo": "docker-texlive",
-            "stars": 115
+            "stars": 116
           }
         }
       ],
@@ -170,7 +170,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17771
+            "stars": 17773
           }
         },
         {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-03-05T19:15:26Z",
                 "owner": "James-Yu",
                 "repo": "LaTeX-Workshop",
-                "stars": 11909
+                "stars": 11910
               }
             },
             {
@@ -242,7 +242,7 @@
             "last_commit": "2024-06-21T09:46:41Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28605
+            "stars": 28609
           }
         }
       ],
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-01T01:09:33Z",
+            "last_commit": "2026-03-12T21:02:12Z",
             "owner": "InMDev",
             "repo": "Modern-LaTeX-Editor",
             "stars": 29
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-12T00:30:08Z",
+            "last_commit": "2026-03-12T23:55:34Z",
             "owner": "ywatanabe1989",
             "repo": "scitex-cloud",
             "stars": 0
@@ -334,7 +334,7 @@
             "last_commit": "2024-05-23T01:16:42Z",
             "owner": "sanjib-sen",
             "repo": "WebLaTex",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -424,7 +424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T21:29:53Z",
+            "last_commit": "2026-03-12T20:35:10Z",
             "owner": "ywatanabe1989",
             "repo": "crossref-local",
             "stars": 2
@@ -437,7 +437,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T21:29:48Z",
+            "last_commit": "2026-03-12T20:35:10Z",
             "owner": "ywatanabe1989",
             "repo": "openalex-local",
             "stars": 0
@@ -506,7 +506,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T21:29:17Z",
+            "last_commit": "2026-03-12T21:41:38Z",
             "owner": "ywatanabe1989",
             "repo": "scitex-writer",
             "stars": 2
@@ -660,7 +660,7 @@
             "last_commit": "2023-10-23T16:48:16Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1683
+            "stars": 1684
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2025-07-23T11:16:04Z",
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1687
+            "stars": 1689
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:04:49.951Z",
+    "last_updated": "2026-03-13T04:03:09.612Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "source_repository": "v1nvn/enhansome-LaTeX",
     "source_repository_description": null,
