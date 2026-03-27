@@ -110,13 +110,13 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,648 | 🐛 86 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,947 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-25 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,652 | 🐛 87 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,946 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-26 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,787 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,215 | 🐛 27 | 🌐 TeX | 📅 2026-03-04 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,790 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,214 | 🐛 27 | 🌐 TeX | 📅 2026-03-04 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 852 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
@@ -132,17 +132,17 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
   * [LaTeXing](https://github.com/LaTeXing/LaTeXing) ⭐ 82 | 🐛 142 | 🌐 Python | 📅 2019-03-19 - Free plug-in to edit LaTeX. ![foss]
 
 * [IntelliJ](https://www.jetbrains.com/idea/)
-  * [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) ⭐ 977 | 🐛 9 | 🌐 Kotlin | 📅 2026-03-14 - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+  * [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) ⭐ 977 | 🐛 11 | 🌐 Kotlin | 📅 2026-03-26 - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 ### Online editors
 
 Online editors that allow you to edit documents collaboratively.
 
-* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,660 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
-* [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 30 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-12 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
+* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,661 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+* [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 31 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 * [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
   * [olcli](https://github.com/aloth/olcli) ⭐ 21 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-22 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
-* [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-03-26 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
+* [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 0 | 🐛 8 | 🌐 Python | 📅 2026-03-27 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 * [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 * [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 * [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
@@ -154,14 +154,14 @@ Online editors that allow you to edit documents collaboratively.
 
 ## Bibliography tools
 
-* [Papis](https://github.com/papis/papis) ⭐ 1,668 | 🐛 113 | 🌐 HTML | 📅 2026-03-23 - Extremely customizable,
+* [Papis](https://github.com/papis/papis) ⭐ 1,669 | 🐛 113 | 🌐 HTML | 📅 2026-03-23 - Extremely customizable,
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![linux] ![mac] ![foss]
 * [betterbib](https://github.com/nschloe/betterbib) ⭐ 834 | 🐛 3 | 📅 2025-04-08 - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
 * [OneCite](https://github.com/HzaCode/OneCite) ⭐ 56 | 🐛 34 | 🌐 Python | 📅 2026-02-19 - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
-* [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-03-25 - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
-* [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-25 - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
+* [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-03-27 - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
+* [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-27 - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
 * [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
 * [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 * [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
@@ -171,7 +171,7 @@ Online editors that allow you to edit documents collaboratively.
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 415 | 🐛 11 | 🌐 Kotlin | 📅 2026-03-07) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 414 | 🐛 11 | 🌐 Kotlin | 📅 2026-03-07) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 * [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
@@ -182,7 +182,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## Misc. Tools
 
 * [CaTeX](https://github.com/Alexis-benoist/CaTeX) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2022-12-26 - Concatenates LaTeX documents with attention for properly merging the preamble.
-* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-03-25 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
+* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-03-27 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
 * [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss]
 
 ### Quality Check Tools
@@ -205,7 +205,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 
 ## LaTeX-compatible GUI tools
 
-* [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) ⭐ 199 | 🐛 14 | 🌐 Python | 📅 2024-03-25 - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
+* [TikZ-Editor](https://github.com/fredokun/TikZ-Editor) ⭐ 200 | 🐛 14 | 🌐 Python | 📅 2024-03-25 - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
 * [TikzEdt](https://www.tikzedt.org) (also: [GitHub repo](https://github.com/hchapman/tikzedt) ⭐ 10 | 🐛 35 | 🌐 C# | 📅 2015-06-08) - WYSIWYG and text-based editor for TikZ pictures. ![foss]
 * [IPE](https://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss]
 * [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
@@ -240,7 +240,7 @@ TikZ is an awesome package with many plugins that allow you to create figures fr
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 * [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,569 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
-* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,689 | 🐛 261 | 🌐 MATLAB | 📅 2023-10-23 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,690 | 🐛 261 | 🌐 MATLAB | 📅 2023-10-23 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 * [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,393 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 * [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
