@@ -110,13 +110,13 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,692 | 🐛 96 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,959 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-07 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,698 | 🐛 96 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 11,963 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-08 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
 * [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,802 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,213 | 🐛 28 | 🌐 TeX | 📅 2026-03-30 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,214 | 🐛 28 | 🌐 TeX | 📅 2026-03-30 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 851 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
@@ -154,7 +154,7 @@ Online editors that allow you to edit documents collaboratively.
 
 ## Bibliography tools
 
-* [Papis](https://github.com/papis/papis) ⭐ 1,681 | 🐛 115 | 🌐 HTML | 📅 2026-04-06 - Extremely customizable,
+* [Papis](https://github.com/papis/papis) ⭐ 1,680 | 🐛 116 | 🌐 HTML | 📅 2026-04-06 - Extremely customizable,
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![linux] ![mac] ![foss]
@@ -187,7 +187,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 
 ### Quality Check Tools
 
-* [TeXtidote](https://github.com/sylvainhalle/textidote) ⭐ 1,042 | 🐛 40 | 🌐 Java | 📅 2026-03-25 - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
+* [TeXtidote](https://github.com/sylvainhalle/textidote) ⭐ 1,043 | 🐛 40 | 🌐 Java | 📅 2026-03-25 - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
 * [blacktex](https://github.com/nschloe/blacktex) ⭐ 158 | 🐛 1 | 📅 2024-01-22 - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows] ![linux] ![mac] ![foss]
 * [ChkTeX](https://www.nongnu.org/chktex/) - Linter / code checker for LaTeX documents. ![foss]
 
@@ -239,8 +239,8 @@ PSTricks is a great library to draw figures for inclusion in PostScript/DVI file
 TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents.
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
-* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,570 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
-* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,694 | 🐛 261 | 🌐 MATLAB | 📅 2023-10-23 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,564 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,695 | 🐛 261 | 🌐 MATLAB | 📅 2023-10-23 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 * [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,398 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 * [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
@@ -261,7 +261,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ## Templates
 
-* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,703 | 🐛 2 | 📅 2025-07-23 - Links to various beamer themes along with PDF previews.
+* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,706 | 🐛 1 | 📅 2026-04-08 - Links to various beamer themes along with PDF previews.
 * [TeXtured](https://github.com/jdujava/TeXtured) ⭐ 263 | 🐛 9 | 🌐 TeX | 📅 2026-02-08 - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 * [LaTeX Beamer Theme Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) ⭐ 45 | 🐛 1 | 🌐 TeX | 📅 2025-09-05 - Visual overview of beamer themes included in TeXLive
 * [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
@@ -291,7 +291,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 * [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - Showcase of invitations typeset using LaTeX.
 * [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.
 * [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
-* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 1,991 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
+* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 1,992 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
 
 ## Tutorials
 
