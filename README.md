@@ -110,13 +110,13 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,616 | 🐛 101 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,034 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-07 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,617 | 🐛 105 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,040 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-09 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,840 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,250 | 🐛 27 | 🌐 TeX | 📅 2026-05-01 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,838 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,251 | 🐛 27 | 🌐 TeX | 📅 2026-05-01 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 851 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
@@ -140,7 +140,7 @@ Online editors that allow you to edit documents collaboratively.
 
 * [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,694 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 * [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
-  * [olcli](https://github.com/aloth/olcli) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-27 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
+  * [olcli](https://github.com/aloth/olcli) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-27 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 * [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 34 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 * [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 0 | 🐛 15 | 🌐 Python | 📅 2026-05-08 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 * [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
@@ -239,9 +239,9 @@ PSTricks is a great library to draw figures for inclusion in PostScript/DVI file
 TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents.
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
-* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,566 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,567 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,707 | 🐛 263 | 🌐 MATLAB | 📅 2026-04-09 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
-* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,406 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
+* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,407 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 * [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 * [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
@@ -291,7 +291,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 * [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - Showcase of invitations typeset using LaTeX.
 * [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.
 * [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
-* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,014 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
+* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,015 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
 
 ## Tutorials
 
