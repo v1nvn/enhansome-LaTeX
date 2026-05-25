@@ -110,24 +110,24 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,676 | 🐛 110 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,094 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,678 | 🐛 110 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,100 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-24 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 2 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,852 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,849 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
   * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,271 | 🐛 29 | 🌐 TeX | 📅 2026-05-12 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 849 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
-* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,263 | 🐛 40 | 📅 2026-05-13 ![foss]
+* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,263 | 🐛 41 | 📅 2026-05-13 ![foss]
   * [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
   * [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
 * [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ⚠️ Archived ![foss]
   * [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
 
-* [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) ⭐ 1,068 | 🐛 1 | 📅 2024-01-15
+* [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks) ⭐ 1,069 | 🐛 1 | 📅 2024-01-15
   * [LaTeXTools](https://github.com/SublimeText/LaTeXTools) ⭐ 2,024 | 🐛 64 | 🌐 Common Workflow Language | 📅 2026-05-17 - Free LaTeX plugin for Sublime Text. ![foss]
   * [LaTeXing](https://github.com/LaTeXing/LaTeXing) ⭐ 82 | 🐛 142 | 🌐 Python | 📅 2019-03-19 - Free plug-in to edit LaTeX. ![foss]
 
@@ -138,7 +138,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 Online editors that allow you to edit documents collaboratively.
 
-* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,701 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,700 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 * [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
   * [olcli](https://github.com/aloth/olcli) ⭐ 57 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-18 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 * [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 35 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
@@ -171,7 +171,7 @@ Online editors that allow you to edit documents collaboratively.
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 415 | 🐛 11 | 🌐 Kotlin | 📅 2026-04-21) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 416 | 🐛 11 | 🌐 Kotlin | 📅 2026-04-21) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 * [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
@@ -182,7 +182,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## Misc. Tools
 
 * [CaTeX](https://github.com/Alexis-benoist/CaTeX) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2022-12-26 - Concatenates LaTeX documents with attention for properly merging the preamble.
-* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-23 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
+* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-24 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
 * [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss]
 
 ### Quality Check Tools
@@ -239,9 +239,9 @@ PSTricks is a great library to draw figures for inclusion in PostScript/DVI file
 TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents.
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
-* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,569 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+* [tikzplotlib](https://github.com/nschloe/tikzplotlib) ⭐ 2,571 | 🐛 137 | 🌐 Python | 📅 2024-08-16 - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) ⭐ 1,712 | 🐛 263 | 🌐 MATLAB | 📅 2026-04-09 - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
-* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,409 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
+* [PetarV-/TikZ](https://github.com/PetarV-/TikZ) ⭐ 1,410 | 🐛 1 | 🌐 TeX | 📅 2023-05-05 - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 * [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
 * [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 * [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
@@ -278,7 +278,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 * [Dickimaw Books: LaTeX resources](https://www.dickimaw-books.com/latexresources.html) - Great overview of resources useful for LaTeX.
 * [LaTeX cookbook](https://latex-cookbook.net) - Sibling of TeXample, contains quite a bit of example code.
 * [Visual FAQ](https://ctan.org/pkg/visualfaq) - Typesetting issues and a link to appropriate TeX FAQ answers.
-* [MartinThoma's LaTeX example](https://github.com/MartinThoma/LaTeX-examples/) ⭐ 1,684 | 🐛 5 | 🌐 TeX | 📅 2024-10-19 - GitHub repository containing example LaTeX documents.
+* [MartinThoma's LaTeX example](https://github.com/MartinThoma/LaTeX-examples/) ⭐ 1,683 | 🐛 5 | 🌐 TeX | 📅 2024-10-19 - GitHub repository containing example LaTeX documents.
 * [LaTeX community](https://latex.org/forum) - Forum about LaTeX.
 * German: [Neue TeX FAQ](https://texfragen.de) - Modern and updated LaTeX FAQ in German.
 * [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) - Example output of common BibTeX styles (BST files).
@@ -291,7 +291,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 * [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - Showcase of invitations typeset using LaTeX.
 * [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.
 * [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
-* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,015 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
+* [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) ⭐ 2,016 | 🐛 1 | 🌐 TeX | 📅 2025-05-26 - Curated list of academic drawing examples for using LaTeX
 
 ## Tutorials
 
