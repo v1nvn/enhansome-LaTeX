@@ -110,17 +110,17 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,682 | 🐛 109 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,110 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-28 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 28,688 | 🐛 109 | 🌐 JavaScript | 📅 2024-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,111 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-28 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 29 | 🐛 2 | 🌐 Shell | 📅 2025-10-05 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
   * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
 
 * [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 17,855 | 🐛 11 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,275 | 🐛 24 | 🌐 TeX | 📅 2026-05-26 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,277 | 🐛 24 | 🌐 TeX | 📅 2026-05-26 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 850 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
-* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,267 | 🐛 40 | 📅 2026-05-13 ![foss]
+* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,268 | 🐛 40 | 📅 2026-05-13 ![foss]
   * [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
   * [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
@@ -154,14 +154,14 @@ Online editors that allow you to edit documents collaboratively.
 
 ## Bibliography tools
 
-* [Papis](https://github.com/papis/papis) ⭐ 1,715 | 🐛 90 | 🌐 HTML | 📅 2026-05-23 - Extremely customizable,
+* [Papis](https://github.com/papis/papis) ⭐ 1,715 | 🐛 90 | 🌐 HTML | 📅 2026-05-28 - Extremely customizable,
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![linux] ![mac] ![foss]
 * [betterbib](https://github.com/nschloe/betterbib) ⭐ 839 | 🐛 3 | 📅 2025-04-08 - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
 * [OneCite](https://github.com/HzaCode/OneCite) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-05-21 - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
-* [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-05-27 - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
-* [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) ⭐ 1 | 🐛 3 | 🌐 HTML | 📅 2026-05-27 - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
+* [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-05-28 - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
+* [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) ⭐ 1 | 🐛 3 | 🌐 HTML | 📅 2026-05-28 - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
 * [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
 * [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 * [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
