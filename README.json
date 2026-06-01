@@ -89,7 +89,7 @@
                 "last_commit": "2026-05-17T09:19:19Z",
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2023
+                "stars": 2022
               }
             }
           ],
@@ -125,7 +125,7 @@
             "last_commit": "2026-05-13T04:32:20Z",
             "owner": "emacs-tw",
             "repo": "awesome-emacs",
-            "stars": 9273
+            "stars": 9274
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17862
+            "stars": 17864
           }
         },
         {
@@ -209,10 +209,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-28T06:01:15Z",
+                "last_commit": "2026-06-01T03:53:27Z",
                 "owner": "James-Yu",
                 "repo": "LaTeX-Workshop",
-                "stars": 12113
+                "stars": 12119
               }
             },
             {
@@ -242,7 +242,7 @@
             "last_commit": "2024-06-21T09:46:41Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28695
+            "stars": 28697
           }
         }
       ],
@@ -296,7 +296,7 @@
                 "last_commit": "2026-05-18T14:29:31Z",
                 "owner": "aloth",
                 "repo": "olcli",
-                "stars": 64
+                "stars": 66
               }
             }
           ],
@@ -308,7 +308,7 @@
             "last_commit": "2026-05-18T14:29:31Z",
             "owner": "aloth",
             "repo": "olcli",
-            "stars": 64
+            "stars": 66
           }
         },
         {
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-31T03:12:17Z",
+            "last_commit": "2026-06-01T03:45:58Z",
             "owner": "ywatanabe1989",
             "repo": "scitex-hub",
             "stars": 0
@@ -334,7 +334,7 @@
             "last_commit": "2024-05-23T01:16:42Z",
             "owner": "sanjib-sen",
             "repo": "WebLaTex",
-            "stars": 1702
+            "stars": 1703
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-05-28T18:30:19Z",
             "owner": "papis",
             "repo": "papis",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -662,7 +662,7 @@
           "repo_info": {
             "archived": false,
             "language": "MATLAB",
-            "last_commit": "2026-04-09T13:25:46Z",
+            "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
             "stars": 1713
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:08:25.166Z",
+    "last_updated": "2026-06-01T06:45:11.070Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "source_repository": "v1nvn/enhansome-LaTeX",
     "source_repository_description": null,
