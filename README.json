@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-05-28T05:55:20Z",
+            "last_commit": "2026-06-01T11:49:29Z",
             "owner": "reitzig",
             "repo": "texlive-docker",
             "stars": 31
@@ -101,7 +101,7 @@
             "last_commit": "2024-01-15T15:02:30Z",
             "owner": "dreikanter",
             "repo": "sublime-bookmarks",
-            "stars": 1070
+            "stars": 1071
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-05-13T04:32:20Z",
             "owner": "emacs-tw",
             "repo": "awesome-emacs",
-            "stars": 9274
+            "stars": 9279
           }
         },
         {
@@ -145,7 +145,7 @@
                 "last_commit": "2025-11-03T05:23:04Z",
                 "owner": "xuhdev",
                 "repo": "vim-latex-live-preview",
-                "stars": 850
+                "stars": 851
               }
             },
             {
@@ -170,7 +170,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17864
+            "stars": 17865
           }
         },
         {
@@ -209,10 +209,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-06-01T03:53:27Z",
+                "last_commit": "2026-06-02T04:59:18Z",
                 "owner": "James-Yu",
                 "repo": "LaTeX-Workshop",
-                "stars": 12119
+                "stars": 12123
               }
             },
             {
@@ -242,7 +242,7 @@
             "last_commit": "2024-06-21T09:46:41Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28697
+            "stars": 28698
           }
         }
       ],
@@ -293,7 +293,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-18T14:29:31Z",
+                "last_commit": "2026-06-01T16:14:39Z",
                 "owner": "aloth",
                 "repo": "olcli",
                 "stars": 66
@@ -305,7 +305,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-18T14:29:31Z",
+            "last_commit": "2026-06-01T16:14:39Z",
             "owner": "aloth",
             "repo": "olcli",
             "stars": 66
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T03:45:58Z",
+            "last_commit": "2026-06-01T23:39:55Z",
             "owner": "ywatanabe1989",
             "repo": "scitex-hub",
             "stars": 0
@@ -334,7 +334,7 @@
             "last_commit": "2024-05-23T01:16:42Z",
             "owner": "sanjib-sen",
             "repo": "WebLaTex",
-            "stars": 1703
+            "stars": 1706
           }
         },
         {
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-28T18:30:19Z",
+            "last_commit": "2026-06-01T20:16:21Z",
             "owner": "papis",
             "repo": "papis",
             "stars": 1718
@@ -464,7 +464,7 @@
             "last_commit": "2026-04-02T02:00:46Z",
             "owner": "xu-cheng",
             "repo": "latex-action",
-            "stars": 1382
+            "stars": 1384
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-05-31T18:16:01Z",
             "owner": "matlab2tikz",
             "repo": "matlab2tikz",
-            "stars": 1713
+            "stars": 1718
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2024-08-16T05:00:45Z",
             "owner": "nschloe",
             "repo": "tikzplotlib",
-            "stars": 2572
+            "stars": 2573
           }
         },
         {
@@ -707,7 +707,7 @@
             "last_commit": "2026-04-26T01:09:25Z",
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1748
+            "stars": 1749
           }
         },
         {
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:45:11.070Z",
+    "last_updated": "2026-06-02T06:27:06.985Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "source_repository": "v1nvn/enhansome-LaTeX",
     "source_repository_description": null,
